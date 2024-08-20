@@ -1,0 +1,20 @@
+section{
+    background-color: black;
+    color: aliceblue;
+}
+h1{
+    text-align: center;
+    
+}
+.container{
+    align-items: center;
+    margin-bottom: 20px;
+}
+.card{
+    opacity: 0.5;
+   margin-left: 15px;
+    
+}
+.card:hover{
+    opacity: 1.0;
+}
